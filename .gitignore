@@ -161,3 +161,5 @@ cython_debug/
 
 .ruff_cache/
 *.zip
+# 作业下载 / 生成的大数据，不入库
+/data/
